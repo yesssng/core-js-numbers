@@ -159,7 +159,7 @@ function parseNumberFromString(value) {
  *   3,3,3   => 5.196152422706632
  *   1,2,3   => 3.741657386773941
  */
-function getParallelepipedDiagonal(a, b, c) {
+function getParallelepipedDiagonal(/*a, b, c*/) {
   throw new Error('Not implemented');
 }
 
